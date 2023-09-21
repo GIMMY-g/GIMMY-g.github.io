@@ -5,5 +5,25 @@ h1 {
 }
 
 #mode {
-  font-size: 200%;
+  font-size: 500%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #030202;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 40px 60px;
+  text-decoration: none;
 }
