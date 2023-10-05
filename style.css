@@ -26,12 +26,14 @@ li a {
   text-align: center;
   padding: 40px 60px;
   text-decoration: none;
-
-  #winkelmandje
-   text-align: border-right: ;
-{  
-  #paard 
- style="color:black;
+}
+  #winkelmandje {
+   position: absolute ;
+    top:0;
+    right: 0;
+  }
+  #paard {
+ color:black;
  text-align: center; 
 }
 
