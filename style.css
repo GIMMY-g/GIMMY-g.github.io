@@ -42,12 +42,48 @@ color: black;
 
 }
 
-
-
-
+#kat {
+  margin-left: 550px ;
+}
+ #poes {
+   margin-left: 520px;
+ }
 
 {
   
 
 }
 
+h1 {
+  color: black
+  text-align: center;
+  font-size: 300%
+
+  
+}
+
+h2 {
+  color: black
+  text-align: center;
+  font-size: 200%;
+  
+}
+    
+p{
+    text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+    h4{
+      text-align: center;
+    
+    }
+
+    h3{
+      text-align: center;
+    }
+    {
+    
+    }
